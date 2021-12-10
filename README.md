@@ -1,3 +1,15 @@
 # Advent of Code
 
+Java solutions to Advent of Code puzzles.
+
+One of my personal objectives was to solve the different puzzles without any external libraries.
+
+Enjoy :)
+
 ## 2021
+
+- [Day1](./src/com/adventofcode/year21/day1)
+- [Day2](./src/com/adventofcode/year21/day2)
+- [Day3](./src/com/adventofcode/year21/day3)
+- [Day4](./src/com/adventofcode/year21/day4)
+- [Day5](./src/com/adventofcode/year21/day5)
